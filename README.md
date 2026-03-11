@@ -35,9 +35,11 @@ The codebase is currently being cleaned and organized for public release.
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{jia2026fairscene,
-  title={FairScene: Learning Class-Disentangled 2D/3D Representations for Semantic Scene Completion},
-  author={Jia, Dian and Yu, Pei and Tang, Wei},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  year={2026}
+@InProceedings{Jia_2026_WACV,
+    author    = {Jia, Dian and Yu, Pei and Tang, Wei},
+    title     = {FairScene: Learning Class-Disentangled 2D/3D Representations for Semantic Scene Completion},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {3760-3770}
 }
