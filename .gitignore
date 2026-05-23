@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data and checkpoints — fetched separately, never committed
+kitti/
+kitti360/
+data/
+dataset/
+ckpts/
+checkpoints/
+*.pth
+*.ckpt
+
+# Training artifacts
+work_dirs/
+results/
+result/
+tf_logs/
+*.log
+*.log.json
+
+# OS
+.DS_Store
+Thumbs.db
